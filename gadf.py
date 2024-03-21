@@ -4,7 +4,6 @@ from scipy import signal
 from pyts.image import GramianAngularField
 import matplotlib.pyplot as plt
 import os
-
 import matplotlib
 matplotlib.use("TkAgg")
 
